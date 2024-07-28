@@ -15,7 +15,7 @@ origins = [
     "http://localhost",
     "http://localhost:8000",
     "http://127.0.0.1:8000",
-    "https://webparkingiot.6l9.dev",
+    "https://webparkingiot.69dev.id",
 ]
 
 app.add_middleware(
